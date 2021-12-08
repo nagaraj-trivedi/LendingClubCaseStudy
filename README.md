@@ -73,7 +73,7 @@ Exploratory Analysis would ensure we get understanding the past behavior , the p
 -  https://www.cnbc.com/select/this-is-the-most-important-factor-that-determines-your-credit-score/ 
 
 ## Contact
-Created by [@abidahmeds] - feel free to contact me!
+Created by [@nagaraj-trivedi] - feel free to contact me!
 
 
 <!-- Optional -->
